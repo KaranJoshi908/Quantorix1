@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantorixProject", "QuantorixProject.csproj", "{B13330FA-4D94-42D2-935E-F66ABF9EC7E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectCommons", "..\ProjectCommons\ProjectCommons.csproj", "{00DB893B-6BA5-40A7-AF07-7B5A7C41A0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13330FA-4D94-42D2-935E-F66ABF9EC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13330FA-4D94-42D2-935E-F66ABF9EC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13330FA-4D94-42D2-935E-F66ABF9EC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13330FA-4D94-42D2-935E-F66ABF9EC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DB893B-6BA5-40A7-AF07-7B5A7C41A0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DB893B-6BA5-40A7-AF07-7B5A7C41A0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DB893B-6BA5-40A7-AF07-7B5A7C41A0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DB893B-6BA5-40A7-AF07-7B5A7C41A0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72D27AA-E15A-4729-81F7-AB97D1A85C67}
+	EndGlobalSection
+EndGlobal
